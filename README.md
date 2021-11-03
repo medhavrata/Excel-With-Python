@@ -14,4 +14,4 @@ Steps:
 
 ### If working in GitPod, edit the below file for flag include-system-site-packages = true 
 
-~/.Excel-With-Python/pyvenv.cfg
+vi ~/.Excel-With-Python/pyvenv.cfg

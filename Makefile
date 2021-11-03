@@ -1,3 +1,12 @@
+virtual:
+	python3 -m venv ~/.Excel-With-Python
+
+source:
+	source ~/.Excel-With-Python/bin/activate
+
+run:
+	python openexcel.py
+
 install:
 	# pip install --upgrade pip &&\
 	pip install -r requirements.txt
